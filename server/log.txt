@@ -1,4 +1,33 @@
-1716269255146:GET / New Req Receievd
-1716269274163:GET / New Req Receievd
-1716269288746:GET /about New Req Receievd
-1716269500116:GET /signup New Req Receievd
+//Version
+
+4.19.2
+
+1st part -> 4
+2nd part -> 19
+3rd part -> 2
+
+//3rd part (last part) - minor Fixes(optional)
+Latest -> 4.19.2
+
+
+//2nd part - Recommended Bug Fixes(Security)
+latest -> 4.19.2
+
+//1st part - Major/Breaking Update
+
+
+
+express = ^4.19.2
+4th Version
+
+^4.19.2 | 4.19.2-> <5.0.0
+^ - install all Recommended and minor fixes automatically
+~4.19.2 
+~4.19.3 
+~4.19.4 
+~4.19.5
+
+4.20.0 no
+
+
+
